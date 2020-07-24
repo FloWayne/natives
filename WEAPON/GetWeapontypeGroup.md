@@ -7,9 +7,12 @@ ns: WEAPON
 // 0xC3287EE3050FB74C 0x5F2DE833
 Hash GET_WEAPONTYPE_GROUP(Hash weaponHash);
 ```
-
+I made a list of all Groups:
+melee (knife, switchblade...): -728555052
+shotguns (pump action, shawn off): 860033945
 
 ## Parameters
 * **weaponHash**: 
 
 ## Return value
+
